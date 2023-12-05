@@ -25,12 +25,7 @@
          <a href=mailto:baesun0304@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:baesun0304@gmail.com"> </a>
     </div>  <br> 
      <div align= "center">  </div> 
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📄codingtest </h2> 
-    <div align= "center">  
-        <img src=http://mazassumnida.wtf/api/generate_badge?boj=baesaa0304)](https://solved.ac/baesaa0304)/><br/>
-    </div> <br> 
+    </div> 
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
         <div align= "center"> 
