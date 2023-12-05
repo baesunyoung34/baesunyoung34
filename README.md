@@ -31,7 +31,9 @@
         <div align= "center"> 
             <img src="https://github-readme-stats.vercel.app/api?username=baesunyoung34&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baesunyoung34&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
-            [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={baesaa0304})](https://solved.ac/{baesaa0304})
+           <a href="https://solved.ac/{baesaa0304}">
+                <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=baesaa0304"/>
+            </a>
         </div>
     </div>
    
